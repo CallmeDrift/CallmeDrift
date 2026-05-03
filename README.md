@@ -15,6 +15,10 @@
 </p>
 
 ---
+<!-- 👁️ Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CallmeDrift&label=Visitas&color=d16ba5&style=for-the-badge"/>
+</p>
 
 ## 🏯 Sobre mí
 
@@ -68,10 +72,38 @@
 
 ---
 
+## 🎖️ Certificaciones (資格)
+
+<p align="center">
+  <a href="https://www.credly.com/badges/71a28e45-2d9e-4dd7-a6a7-30d6586a5917/public_url">
+    <img src="https://images.credly.com/size/340x340/images/71a28e45-2d9e-4dd7-a6a7-30d6586a5917/image.png" width="130"/>
+  </a>
+  <a href="https://www.credly.com/badges/fb0652d8-5e4e-4dd7-a6a7-30d6586a5917/public_url">
+    <img src="https://images.credly.com/size/340x340/images/fb0652d8-5e4e-4e11-a647-7a52afd07590/image.png" width="130"/>
+  </a>
+</p>
+
+---
+
 ## 🏆 Logros (功績)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CallmeDrift&theme=algolia&no-frame=true&row=1"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CallmeDrift&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CallmeDrift&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CallmeDrift&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CallmeDrift&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CallmeDrift&theme=tokyonight&utcOffset=-5"/>
 </p>
 
 ---
