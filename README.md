@@ -1,6 +1,11 @@
 <!-- 🌸 Banner estilo japonés -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=ようこそ%20-%20Welcome&fontSize=45&fontColor=EAEAEA&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1a47,100:d16ba5&height=250&section=header&text=ようこそ%20-%20Welcome&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 🌸 Imagen decorativa -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5c/7e/3c/5c7e3c9c5b6c63aefc9f0b7e0a8c4f62.gif" width="600"/>
 </p>
 
 <!-- 👤 Presentación -->
@@ -13,12 +18,13 @@
 
 ## 🏯 Sobre mí
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9b/61/3c/9b613c8f5f0e6b68a0e5e2d7f6b6b6d5.gif" width="400"/>
+</p>
+
 - 🎓 Programador en **UPB - Bucaramanga**
 - 💻 Stack principal:  
-  `Java` · `Python` · `Angular` · `TypeScript` · `Dart` · `Flutter`
-- 🌱 Actualmente aprendiendo:  
-  `Flask` · `Arquitectura de software`
-- ⚡ Fun fact: Me gusta optimizar código como si fuera un speedrun ⚔️
+  `Java` · `Python` · `Angular` · `TypeScript` · `Dart` · `Flutter` · `Flask` · `Arquitectura de software`
 
 ---
 
@@ -26,6 +32,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,angular,ts,js,html,css,flutter,dart,git" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0d/7f/91/0d7f91f6c9c9e6c4a1e5cbbf5f1f3c1e.gif" width="500"/>
 </p>
 
 ---
@@ -52,6 +62,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CallmeDrift&theme=tokyo-night"/>
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3f/f0/6c/3ff06c2f1c4a60a2f7e4b7a64c3c8e7e.gif" width="500"/>
+</p>
+
 ---
 
 ## 🏆 Logros (功績)
@@ -66,18 +80,24 @@
 
 <p align="center">
   <a href="https://github.com/CallmeDrift">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-2e1a47?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://instagram.com/diego16.37">
-    <img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-d16ba5?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/YouTube-16213e?style=for-the-badge&logo=youtube"/>
+    <img src="https://img.shields.io/badge/YouTube-3a0ca3?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
+---
+
+<!-- 🌸 Sakura final -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1c/6d/6f/1c6d6f1cbbac9e2f0d2d9b6e1f2b3e7f.gif" width="600"/>
+</p>
 
 <!-- 🌊 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d16ba5,100:2e1a47&height=120&section=footer"/>
 </p>
