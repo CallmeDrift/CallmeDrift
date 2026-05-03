@@ -6,7 +6,7 @@
 <!-- 👤 Presentación -->
 <h1 align="center">🌸 Diego (CallmeDrift) 🌸</h1>
 <p align="center">
-  <i>"El camino del programador es como el del samurái: disciplina, constancia y evolución."</i>
+  <i>"Tienes que confiar, pq si no confias no hay confianza"</i>
 </p>
 
 ---
@@ -76,15 +76,6 @@
   </a>
 </p>
 
----
-
-## 🧘 Filosofía
-
-> 「七転び八起き」  
-> *Nanakorobi yaoki*  
-> "Cae siete veces, levántate ocho."
-
----
 
 <!-- 🌊 Footer -->
 <p align="center">
