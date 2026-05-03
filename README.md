@@ -17,22 +17,22 @@
 ---
 <!-- 👁️ Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CallmeDrift&label=Visitas&color=d16ba5&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=CallmeDrift&label=Profile%20Views&color=d16ba5&style=for-the-badge"/>
 </p>
 
-## 🏯 Sobre mí
+## 🏯 About Me
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/9b/61/3c/9b613c8f5f0e6b68a0e5e2d7f6b6b6d5.gif" width="400"/>
 </p>
 
-- 🎓 Programador en **UPB - Bucaramanga**
-- 💻 Stack principal:  
-  `Java` · `Python` · `Angular` · `TypeScript` · `Dart` · `Flutter` · `Flask` · `Arquitectura de software`
+- 🎓 Software Developer at **UPB - Bucaramanga**
+- 💻 Main stack:  
+  `Java` · `Python` · `Angular` · `TypeScript` · `Dart` · `Flutter` · `Flask` · `Software Architecture`
 
 ---
 
-## 🗾 Tecnologías (道具 - Herramientas)
+## 🗾 Technologies (道具 - Tools)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,angular,ts,js,html,css,flutter,dart,git" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 Estadísticas (統計)
+## 📊 Statistics (統計)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CallmeDrift&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -60,7 +60,7 @@
 
 ---
 
-## 🌸 Actividad (日々の修行)
+## 🌸 Activity (日々の修行)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CallmeDrift&theme=tokyo-night"/>
@@ -72,25 +72,24 @@
 
 ---
 
-## 🎖️ Certificaciones (資格)
+## 🎖️ Certifications (資格)
 
 <p align="center">
   <a href="https://www.credly.com/badges/71a28e45-2d9e-4dd7-a6a7-30d6586a5917/public_url">
     <img src="https://images.credly.com/size/340x340/images/71a28e45-2d9e-4dd7-a6a7-30d6586a5917/image.png" width="130"/>
   </a>
-  <a href="https://www.credly.com/badges/fb0652d8-5e4e-4dd7-a6a7-30d6586a5917/public_url">
+  <a href="https://www.credly.com/badges/fb0652d8-5e4e-4e11-a647-7a52afd07590/public_url">
     <img src="https://images.credly.com/size/340x340/images/fb0652d8-5e4e-4e11-a647-7a52afd07590/image.png" width="130"/>
   </a>
 </p>
 
 ---
 
-## 🏆 Logros (功績)
+## 🏆 Achievements (功績)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CallmeDrift&theme=algolia&no-frame=true&row=1"/>
 </p>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CallmeDrift&theme=tokyonight"/>
@@ -108,7 +107,7 @@
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/CallmeDrift">
